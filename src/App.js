@@ -10,6 +10,7 @@ function App() {
           Brian commit,
           Austin Commit,
           RJ Commit
+          Justin commit,
         </p>
       </header>
       <Dashboard />
