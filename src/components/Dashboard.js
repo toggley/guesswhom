@@ -1,7 +1,7 @@
 export default function Dashboard() {
     return(
         <div className="Dashboard">
-            Dashboard!
+            Austin's Dashboard!
         </div>
     )
 }
