@@ -1,7 +1,9 @@
-export default function Dashboard() {
-    return(
-        <div className="Dashboard">
-            Dashboard!
-        </div>
-    )
-}
+import React, {useState } from "react";
+
+export const Dashboard = (props) => {
+  return (
+    <div>dashboard</div>
+  );
+};
+
+export default Dashboard
